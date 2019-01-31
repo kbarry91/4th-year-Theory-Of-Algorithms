@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1548961393,,"wq"
+|2,0,1548962114,,"wq"
+:qm
+|2,0,1548962110,,"qm"
 :wd
 |2,0,1548961122,,"wd"
 :w
@@ -59,48 +61,74 @@
 |3,1,36,0,1,0,1548960555,"663"
 
 # File marks:
-'0  34  0  ~/primes/prime.c
-|4,48,34,0,1548961393,"~/primes/prime.c"
-'1  31  9  ~/primes/prime.c
-|4,49,31,9,1548961323,"~/primes/prime.c"
+'0  5  0  ~/.gitignore
+|4,48,5,0,1548962114,"~/.gitignore"
+'1  34  0  ~/primes/prime.c
+|4,49,34,0,1548961393,"~/primes/prime.c"
 '2  31  9  ~/primes/prime.c
 |4,50,31,9,1548961323,"~/primes/prime.c"
-'3  30  28  ~/primes/prime.c
-|4,51,30,28,1548961245,"~/primes/prime.c"
-'4  29  28  ~/primes/prime.c
-|4,52,29,28,1548961245,"~/primes/prime.c"
-'5  30  28  ~/primes/prime.c
-|4,53,30,28,1548961245,"~/primes/prime.c"
-'6  29  28  ~/primes/prime.c
-|4,54,29,28,1548961245,"~/primes/prime.c"
-'7  30  28  ~/primes/prime.c
-|4,55,30,28,1548961127,"~/primes/prime.c"
-'8  29  28  ~/primes/prime.c
-|4,56,29,28,1548961127,"~/primes/prime.c"
-'9  30  28  ~/primes/prime.c
-|4,57,30,28,1548961127,"~/primes/prime.c"
+'3  31  9  ~/primes/prime.c
+|4,51,31,9,1548961323,"~/primes/prime.c"
+'4  30  28  ~/primes/prime.c
+|4,52,30,28,1548961245,"~/primes/prime.c"
+'5  29  28  ~/primes/prime.c
+|4,53,29,28,1548961245,"~/primes/prime.c"
+'6  30  28  ~/primes/prime.c
+|4,54,30,28,1548961245,"~/primes/prime.c"
+'7  29  28  ~/primes/prime.c
+|4,55,29,28,1548961245,"~/primes/prime.c"
+'8  30  28  ~/primes/prime.c
+|4,56,30,28,1548961127,"~/primes/prime.c"
+'9  29  28  ~/primes/prime.c
+|4,57,29,28,1548961127,"~/primes/prime.c"
 
 # Jumplist (newest first):
+-'  5  0  ~/.gitignore
+|4,39,5,0,1548962114,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1548961922,"~/.gitignore"
+-'  34  0  ~/primes/prime.c
+|4,39,34,0,1548961393,"~/primes/prime.c"
 -'  34  0  ~/primes/prime.c
 |4,39,34,0,1548961393,"~/primes/prime.c"
 -'  31  9  ~/primes/prime.c
 |4,39,31,9,1548961347,"~/primes/prime.c"
+-'  31  9  ~/primes/prime.c
+|4,39,31,9,1548961347,"~/primes/prime.c"
+-'  31  9  ~/primes/prime.c
+|4,39,31,9,1548961323,"~/primes/prime.c"
 -'  31  9  ~/primes/prime.c
 |4,39,31,9,1548961323,"~/primes/prime.c"
 -'  30  28  ~/primes/prime.c
 |4,39,30,28,1548961291,"~/primes/prime.c"
 -'  30  28  ~/primes/prime.c
 |4,39,30,28,1548961291,"~/primes/prime.c"
+-'  30  28  ~/primes/prime.c
+|4,39,30,28,1548961291,"~/primes/prime.c"
+-'  30  28  ~/primes/prime.c
+|4,39,30,28,1548961291,"~/primes/prime.c"
+-'  29  28  ~/primes/prime.c
+|4,39,29,28,1548961245,"~/primes/prime.c"
+-'  29  28  ~/primes/prime.c
+|4,39,29,28,1548961245,"~/primes/prime.c"
 -'  29  28  ~/primes/prime.c
 |4,39,29,28,1548961245,"~/primes/prime.c"
 -'  29  28  ~/primes/prime.c
 |4,39,29,28,1548961245,"~/primes/prime.c"
 -'  29  28  ~/primes/prime.c
 |4,39,29,28,1548961127,"~/primes/prime.c"
+-'  29  28  ~/primes/prime.c
+|4,39,29,28,1548961127,"~/primes/prime.c"
 -'  30  0  ~/primes/prime.c
 |4,39,30,0,1548961105,"~/primes/prime.c"
 -'  30  0  ~/primes/prime.c
 |4,39,30,0,1548961105,"~/primes/prime.c"
+-'  30  0  ~/primes/prime.c
+|4,39,30,0,1548961105,"~/primes/prime.c"
+-'  30  0  ~/primes/prime.c
+|4,39,30,0,1548961105,"~/primes/prime.c"
+-'  30  0  ~/primes/prime.c
+|4,39,30,0,1548961095,"~/primes/prime.c"
 -'  30  0  ~/primes/prime.c
 |4,39,30,0,1548961095,"~/primes/prime.c"
 -'  20  10  ~/primes/prime.c
@@ -115,6 +143,20 @@
 |4,39,19,10,1548960862,"~/primes/prime.c"
 -'  19  10  ~/primes/prime.c
 |4,39,19,10,1548960862,"~/primes/prime.c"
+-'  20  10  ~/primes/prime.c
+|4,39,20,10,1548960862,"~/primes/prime.c"
+-'  19  10  ~/primes/prime.c
+|4,39,19,10,1548960862,"~/primes/prime.c"
+-'  20  10  ~/primes/prime.c
+|4,39,20,10,1548960862,"~/primes/prime.c"
+-'  19  10  ~/primes/prime.c
+|4,39,19,10,1548960862,"~/primes/prime.c"
+-'  19  10  ~/primes/prime.c
+|4,39,19,10,1548960862,"~/primes/prime.c"
+-'  19  10  ~/primes/prime.c
+|4,39,19,10,1548960862,"~/primes/prime.c"
+-'  19  10  ~/primes/prime.c
+|4,39,19,10,1548960681,"~/primes/prime.c"
 -'  19  10  ~/primes/prime.c
 |4,39,19,10,1548960681,"~/primes/prime.c"
 -'  25  33  ~/primes/prime.c
@@ -131,6 +173,22 @@
 |4,39,24,33,1548960650,"~/primes/prime.c"
 -'  24  33  ~/primes/prime.c
 |4,39,24,33,1548960650,"~/primes/prime.c"
+-'  25  33  ~/primes/prime.c
+|4,39,25,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960650,"~/primes/prime.c"
+-'  25  33  ~/primes/prime.c
+|4,39,25,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960650,"~/primes/prime.c"
+-'  24  33  ~/primes/prime.c
+|4,39,24,33,1548960640,"~/primes/prime.c"
 -'  24  33  ~/primes/prime.c
 |4,39,24,33,1548960640,"~/primes/prime.c"
 -'  27  9  ~/primes/prime.c
@@ -147,6 +205,34 @@
 |4,39,26,9,1548960523,"~/primes/prime.c"
 -'  26  9  ~/primes/prime.c
 |4,39,26,9,1548960523,"~/primes/prime.c"
+-'  27  9  ~/primes/prime.c
+|4,39,27,9,1548960523,"~/primes/prime.c"
+-'  26  9  ~/primes/prime.c
+|4,39,26,9,1548960523,"~/primes/prime.c"
+-'  27  9  ~/primes/prime.c
+|4,39,27,9,1548960523,"~/primes/prime.c"
+-'  26  9  ~/primes/prime.c
+|4,39,26,9,1548960523,"~/primes/prime.c"
+-'  26  9  ~/primes/prime.c
+|4,39,26,9,1548960523,"~/primes/prime.c"
+-'  26  9  ~/primes/prime.c
+|4,39,26,9,1548960523,"~/primes/prime.c"
+-'  26  9  ~/primes/prime.c
+|4,39,26,9,1548960523,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
+-'  24  9  ~/primes/prime.c
+|4,39,24,9,1548960458,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
+-'  23  9  ~/primes/prime.c
+|4,39,23,9,1548960458,"~/primes/prime.c"
 -'  23  9  ~/primes/prime.c
 |4,39,23,9,1548960458,"~/primes/prime.c"
 -'  24  9  ~/primes/prime.c
@@ -177,112 +263,35 @@
 |4,39,21,28,1548960439,"~/primes/prime.c"
 -'  21  28  ~/primes/prime.c
 |4,39,21,28,1548960439,"~/primes/prime.c"
+-'  22  28  ~/primes/prime.c
+|4,39,22,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
+-'  22  28  ~/primes/prime.c
+|4,39,22,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960439,"~/primes/prime.c"
 -'  21  28  ~/primes/prime.c
 |4,39,21,28,1548960434,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  19  9  ~/primes/prime.c
-|4,39,19,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960090,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  18  9  ~/primes/prime.c
-|4,39,18,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  17  9  ~/primes/prime.c
-|4,39,17,9,1548960068,"~/primes/prime.c"
--'  8  9  ~/primes/prime.c
-|4,39,8,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  8  9  ~/primes/prime.c
-|4,39,8,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  7  9  ~/primes/prime.c
-|4,39,7,9,1548959814,"~/primes/prime.c"
--'  16  19  ~/primes/prime.c
-|4,39,16,19,1548959787,"~/primes/prime.c"
--'  6  19  ~/primes/prime.c
-|4,39,6,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  16  19  ~/primes/prime.c
-|4,39,16,19,1548959787,"~/primes/prime.c"
--'  6  19  ~/primes/prime.c
-|4,39,6,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  15  19  ~/primes/prime.c
-|4,39,15,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959787,"~/primes/prime.c"
--'  5  19  ~/primes/prime.c
-|4,39,5,19,1548959745,"~/primes/prime.c"
--'  11  0  ~/primes/prime.c
-|4,39,11,0,1548959714,"~/primes/prime.c"
--'  32  0  ~/primes/prime.c
-|4,39,32,0,1548959714,"~/primes/prime.c"
+-'  21  28  ~/primes/prime.c
+|4,39,21,28,1548960434,"~/primes/prime.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1548962110	0
+	"	5	0
+	^	5	0
+	.	4	9
+	+	4	9
 
 > ~/primes/prime.c
 	*	1548961389	0

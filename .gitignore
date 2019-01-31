@@ -1,0 +1,5 @@
+*.bash*
+*.profile
+*.swp
+*.viminfo
+
