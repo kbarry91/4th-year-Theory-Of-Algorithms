@@ -13,6 +13,8 @@ uint32_t primes[] = {
 };
 
 int main(int argc,char *argv[]){
+// sha constants 
+// output first 32 bits of the fractional parts of the cube roots of the first sixty-four prime numbers
 
 	long double cuberoot;
 	long double multi;	
@@ -20,11 +22,11 @@ int main(int argc,char *argv[]){
 
 	for(int i = 0; i < 64 ; i++){
 		
-		cuberoot = cbrtl((long double)primes[i]);
-		fraction = cuberoot - floorl(cuberoot);
+		cuberoot = cbrtl((long double)primes[i]);	// cube root of prime
+		fraction = cuberoot - floorl(cuberoot);		// fraction part of cuberoot
 	
-		multi = fraction *0x100000000;
-		multi = floorl(multi);
+		multi = fraction *0x100000000;			// hex for 2^32
+		multi = floorl(multi);				// remove decimal from multi
 
 		printf("%3d  > %3.6Lf >  %3.6Lf  > %x \n",primes[i],cuberoot,fraction,(uint32_t)multi);
 	}
